@@ -18,6 +18,7 @@ Installation:
 
 5: Enter your CEX specific information into the fields(Bot will begin immediately)
 
+Program currently only purchases GHS using available bitcoins. No option yet for amount of bitcoins to keep on hand. This will be added to the next minor update.
 
 Help keep future updates free by donating spare bitcoin denominations to:
 
