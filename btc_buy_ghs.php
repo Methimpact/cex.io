@@ -21,7 +21,8 @@
   
  if($trade == "under")
  {
- $GHS = $BTC/$price;
+ $GHS = round($BTC/$price, 8, PHP_ROUND_HALF_DOWN);
+ //$GHS = round( $GHS, 7, PHP_ROUND_HALF_DOWN);
  }
  else
  {
