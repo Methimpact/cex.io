@@ -1,5 +1,6 @@
 cex.io
 ======
+<a href="https://cex.io/r/0/HikeNH/0/" title="CEX.io - Bitcoin Commodity Exchange" target="_blank"><img src="http://cex.io/informer/HikeNH/54b8d061f4323dd4f78854bd3cd4953a/" width="500" height="35" border="0"></a>
 Temporary placeholder while I finish program.
 
 To install, upload to your website and open the index.html file within your broser.
