@@ -1,7 +1,7 @@
 cex.io
 ======
-<a href="https://cex.io/r/0/HikeNH/0/" title="CEX.io - Bitcoin Commodity Exchange" target="_blank"><img src="http://cex.io/informer/HikeNH/54b8d061f4323dd4f78854bd3cd4953a/" width="500" height="35" border="0"></a>
 
+<a href="https://cex.io/r/0/HikeNH/0/" title="CEX.io - Bitcoin Commodity Exchange" target="_blank"><img src="http://cex.io/img/b/728x90.jpg" width="728" height="90" border="0" alt="CEX.io"></a>
 CEX.IO
 Trading Bot
 ________________________
