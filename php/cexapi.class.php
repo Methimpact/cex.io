@@ -103,12 +103,12 @@ class cexapi
   }
 	      
  public function place_order($ptype = 'buy', $amount = 1, $price = 1, $couple = 'GHS/BTC')
-  {
-   return $this -> api_call('place_order', array(
-    "type" => ptype,
-    "amount" => amount,
-    "price" => price),true,couple);
-  }
+{
+return $this -> api_call('place_order', array(
+"type" => $ptype,
+"amount" => $amount,
+"price" => $price),true,$couple);
+}
 
 }
 ?>

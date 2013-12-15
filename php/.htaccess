@@ -1,0 +1,7 @@
+# Use PHP 5.3
+AddType application/x-httpd-php53 .php 
+<Files ~ "\.csv$">
+	Order allow,deny
+	Deny from all
+</Files>
+SetEnv TZ America/Indianapolis 
